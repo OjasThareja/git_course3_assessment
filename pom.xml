@@ -11,7 +11,7 @@
     <artifactId>java-client</artifactId>
     <version>7.6.0</version>
 </dependency>
-
+  <!-- Verify If the changes are committed -->
   </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
